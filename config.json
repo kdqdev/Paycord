@@ -1,0 +1,6 @@
+{
+  "token": "DISCORD BOT TOKEN",
+  "email": "AMAZON ACCOUNT EMAIL",
+  "password": "AMAZON ACCOUNT PASSWORD",
+  "subscriptionValue": "COST OF SUBSCRIPTION - DELETE THIS STRING, ENTER VALUE AS FLOAT - EX: 1.00"
+}
